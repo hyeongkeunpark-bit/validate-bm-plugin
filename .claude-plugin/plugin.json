@@ -1,0 +1,9 @@
+{
+  "name": "validate-bm",
+  "description": "비즈니스 모델 가설을 빠르게 검증하는 3단계 스킬셋. 가설 기획 → 랜딩페이지 제작 → Go/Pivot/Kill 판정.",
+  "skills": [
+    "skills/validate-hypothesis",
+    "skills/validate-landing",
+    "skills/validate-judge"
+  ]
+}
